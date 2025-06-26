@@ -1,10 +1,10 @@
 import { useState } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from './components/Header';
-import Dashboard from './components/Dashboard';
-import ComposePost from './components/ComposePost';
-import PlatformConnections from './components/PlatformConnections';
-import PostHistory from './components/PostHistory';
+import Dashboard from './components/Dashboard.tsx';
+import ComposePost from './components/ComposePost.tsx';
+import PlatformConnections from './components/PlatformConnections.tsx';
+import PostHistory from './components/PostHistory.tsx';
 import type { User, Post } from './types';
 
 function App() {
