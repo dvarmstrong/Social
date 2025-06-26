@@ -1,3 +1,4 @@
+#This app is still in progress it is NOT COMPLETE!!!!!
 # SocialHub - Social Media Aggregator
 
 A modern React TypeScript application that allows users to post content to multiple social media platforms simultaneously.
